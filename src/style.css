@@ -1,0 +1,100 @@
+* {
+    font-family: monospace;
+    font-size: 1.3rem;
+    color: white;
+}
+
+.margin {
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+nav {
+    padding: 28px;
+    background-color: #161616; /*#121214*/
+    color: white;
+}
+
+
+.profile {
+    font-weight: light;
+    color: white;
+    background-color: #1C1C1C;
+}
+
+body {
+    background-color: #1C1C1C;
+    
+}
+
+main {
+    min-height: 100vh;
+    
+}
+
+h1 {
+   /* margin: 3px 0px 10px 50px;*/
+    padding-top: 34px;
+    font-size: 34px;
+}
+
+
+hr {
+    color: white;
+}
+
+b {
+    color: rgb(255, 238, 0);
+}
+
+footer {
+    height: 15vh;
+}
+.img-direction {
+    margin: 28px;
+    float: left;
+}
+.img-direction2 {
+    margin: 28px;
+    float: center;
+}
+
+.detail {
+    margin-top: 70px;
+   position: initial;
+   /* padding: 15px;*/
+    background-color: #5e548e59;
+   /*text-align: justify;*/
+   /* padding: 3rem;
+    margin: 4rem 6rem;*/
+    border-radius: 2rem;
+}
+/*
+.detail-text {
+    line-height: 1rem;
+}
+*/
+.navbar-brand {
+    color: white;
+}
+
+.navbar-toggler span {
+    size: 13px;
+    width: 14px;
+    height: 14px;
+}
+
+.container-color {
+    background-color: white;
+}
+
+.Color {
+    background-color: #161616;
+}
+
+.font {
+    color: white !important;
+}
+
+button {
+    color: white;
+}
